@@ -16,7 +16,7 @@
 ## Quick start
 
 1.  Make sure that you have Node.js and npm installed.
-2.  Clone this repo using `git clone --depth=1 https://github.com/Rpetz13/fetch-api-nextJs.git <YOUR_PROJECT_NAME>`
+2.  Clone this repo using `git clone https://github.com/rpetzandrian/fetch-api-nextJs.git <YOUR_PROJECT_NAME>`
 3.  Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br />
 4.  Run `npm run dev`.<br />
     _At this point you can open `http://localhost:3000`._
