@@ -9,7 +9,7 @@
 
 ## Tools
 
-- <a href='https://nextjs.org/'>Netx JS</>
+- <a href='https://nextjs.org/'>Netx JS</a>
 - Bootstrap
 - Javascript
 
