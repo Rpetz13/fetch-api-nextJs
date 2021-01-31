@@ -7,15 +7,23 @@
 
 <br />
 
+## Features
+- Get data from API
+- Detail data per ID
+
+> Note : This will continue to be added to other features
+
 ## Tools
 
 - <a href='https://nextjs.org/'>Next JS</a>
 - Bootstrap
 - Javascript
+- JSON Placeholder
 
 ## Quick start
 
 1.  Make sure that you have Node.js and npm installed.
+2.  Open your CLI using cmd or bash or other
 2.  Clone this repo using `git clone https://github.com/rpetzandrian/fetch-api-nextJs.git <YOUR_PROJECT_NAME>`
 3.  Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br />
 4.  Run `npm run dev`.<br />
@@ -25,3 +33,4 @@
 ## Sources
 
 -<a href='https://nextjs.org/'>Next JS Docs</a>
+-<a href='https://jsonplaceholder.typicode.com/'>JSON Placeholder</a>
