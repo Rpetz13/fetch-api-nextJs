@@ -7,6 +7,11 @@
 
 <br />
 
+## Next JS
+<div>Next JS is a React Framework. So, Next JS is React based.</div>
+
+<br/>
+
 ## Features
 - Get data from API
 - Detail data per ID
@@ -32,5 +37,5 @@
 
 ## Sources
 
--<a href='https://nextjs.org/'>Next JS Docs</a>
+-<a href='https://nextjs.org/'>Next JS Docs</a><br >
 -<a href='https://jsonplaceholder.typicode.com/'>JSON Placeholder</a>
