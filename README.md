@@ -8,7 +8,7 @@
 <br />
 
 ## About This Project
-<div>This Project is about how to CRUD data from API using Next JS.</div>
+<div>This project is a simple CRUD app with Next JS. This is still basic implementation Next JS.</div>
 
 <br/>
 
@@ -52,3 +52,6 @@ This project's features is unfinished .
 
 -<a href='https://nextjs.org/'>Next JS Docs</a><br >
 -<a href='https://jsonplaceholder.typicode.com/'>JSON Placeholder</a>
+
+## Authors
+- Github : <a href='https://github.com/rpetzandrian'>Rico Andrian Firmansyah</a>
