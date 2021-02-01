@@ -2,37 +2,49 @@
 
 <br />
 
-<div align="center"><strong>Fetch data from API with Next JS</strong></div>
-<div align="center">How to fetch data from API using Next JS</div>
+<div align="center"><strong>CRUD data from API with Next JS</strong></div>
+<div align="center">CRUD data using Next JS</div>
 
 <br />
 
-## Next JS
-<div>Next JS is a React Framework. So, Next JS is React based.</div>
+## About This Project
+<div>This Project is about how to CRUD data from API using Next JS.</div>
 
 <br/>
 
 ## Features
-- Get data from API
-- Detail data per ID
+This project's features is unfinished .
 
-> Note : This will continue to be added to other features
+ |#|Features|Status|
+ |--|----------|-------|
+ |#| Create	| Non Completed |
+ |#| Read | Completed |
+ |#| Update | Non Completed |
+ |#| Delete | Non Completed |
+ |#| Data Relation | Completed |
+
+> Note: This will continue to be added to other features
+
 
 ## Tools
 <div><strong>Some of tools that I use in this case, They are : </strong></div>
 
 - <a href='https://nextjs.org/'>Next JS</a>
+	A framework for React JS
 - Bootstrap
+	For styling I using Bootstraps
 - Javascript
+	Programming Language
 - JSON Placeholder
+	Fake API for testing and prototyping
 
 ## Quick start
 
-1.  Make sure that you have Node.js and npm installed.
-2.  Open your CLI using cmd or bash or other
-2.  Clone this repo using `git clone https://github.com/rpetzandrian/fetch-api-nextJs.git <YOUR_PROJECT_NAME>`
+1.  Make sure that you have Node.js and npm or yarn installed.
+2.  Open your terminal
+2.  Clone this repo using `git clone https://github.com/rpetzandrian/crud-api-nextjs.git <YOUR_PROJECT_NAME>`
 3.  Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br />
-4.  Run `npm run dev`.<br />
+4.  Run `npm run dev` or `yarn run dev`.<br />
     _At this point you can open `http://localhost:3000`._
 5.  You're ready to explore
 
