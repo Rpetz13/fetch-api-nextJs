@@ -42,11 +42,12 @@ This project's features is unfinished .
 
 1.  Make sure that you have Node.js and npm or yarn installed.
 2.  Open your terminal
-2.  Clone this repo using `git clone https://github.com/rpetzandrian/crud-api-nextjs.git <YOUR_PROJECT_NAME>`
-3.  Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br />
-4.  Run `npm run dev` or `yarn run dev`.<br />
+3.  Install node_module using `npm install`
+4.  Clone this repo using `git clone https://github.com/rpetzandrian/crud-api-nextjs.git <YOUR_PROJECT_NAME>`
+5.  Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br />
+6.  Run `npm run dev` or `yarn run dev`.<br />
     _At this point you can open `http://localhost:3000`._
-5.  You're ready to explore
+7.  You're ready to explore
 
 ## Sources
 
