@@ -1,34 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img src="https://i.ibb.co/nwM8xNJ/fetch-next.png" alt="fetch-api" align="center" />
 
-## Getting Started
+<br />
 
-First, run the development server:
+<div align="center"><strong>CRUD data from API with Next JS</strong></div>
+<div align="center">CRUD data using Next JS</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<br />
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About This Project
+<div>This project is a simple CRUD app with Next JS. This is still basic implementation Next JS.</div>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<br/>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Features
+This project's features is unfinished .
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+ |#|Features|Status|
+ |--|----------|-------|
+ |#| Create	| Non Completed |
+ |#| Read | Completed |
+ |#| Update | Non Completed |
+ |#| Delete | Non Completed |
+ |#| Data Relation | Completed |
 
-## Learn More
+> Note: This will continue to be added to other features
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tools
+<div><strong>Some of tools that I use in this case, They are : </strong></div>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- <a href='https://nextjs.org/'>Next JS :</a>
+	A framework for React JS
+- Bootstrap :
+	For styling I using Bootstraps
+- Javascript :
+	Programming Language
+- JSON Placeholder :
+	Fake API for testing and prototyping
 
-## Deploy on Vercel
+## Quick start
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1.  Make sure that you have Node.js and npm or yarn installed.
+2.  Open your terminal
+3.  Clone this repo using `git clone https://github.com/rpetzandrian/crud-api-nextjs.git <YOUR_PROJECT_NAME>`
+4.  Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br />
+5.  Open code editor `code .`<br />
+6.  Install node_module using `npm install` in terminal
+7.  Run `npm run dev` or `yarn run dev`.<br />
+    _At this point you can open `http://localhost:3000`._
+8.  You're ready to explore
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Sources
+
+-<a href='https://nextjs.org/'>Next JS Docs</a><br >
+-<a href='https://jsonplaceholder.typicode.com/'>JSON Placeholder</a>
+
+## Authors
+- Github : <a href='https://github.com/rpetzandrian'>Rico Andrian Firmansyah</a>
