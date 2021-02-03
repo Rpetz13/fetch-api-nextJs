@@ -66,7 +66,41 @@ const DetailAlbums = ({ album, photo, user }) => {
 };
 
 // Mengambil Data
-export async function getServerSideProps({ params }) {
+// export async function getServerSideProps({ params }) {
+//   const al = await fetch(
+//     `https://jsonplaceholder.typicode.com/albums/${params.id}`
+//   );
+//   const album = await al.json();
+
+//   const pho = await fetch(
+//     `https://jsonplaceholder.typicode.com/albums/${params.id}/photos`
+//   );
+//   const photo = await pho.json();
+
+//   const us = await fetch("https://jsonplaceholder.typicode.com/users");
+//   const user = await us.json();
+
+//   return {
+//     props: {
+//       album,
+//       photo,
+//       user,
+//     },
+//   };
+// }
+
+export async function getStaticPaths() {
+  const al = await fetch(`https://jsonplaceholder.typicode.com/albums`);
+  const album = await al.json();
+
+  const paths = album.map((album) => ({
+    params: { id: album.id.toString() },
+  }));
+
+  return { paths, fallback: false };
+}
+
+export async function getStaticProps({ params }) {
   const al = await fetch(
     `https://jsonplaceholder.typicode.com/albums/${params.id}`
   );
