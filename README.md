@@ -29,13 +29,13 @@ This project's features is unfinished .
 ## Tools
 <div><strong>Some of tools that I use in this case, They are : </strong></div>
 
-- <a href='https://nextjs.org/'>Next JS</a>
+- <a href='https://nextjs.org/'>Next JS :</a>
 	A framework for React JS
-- Bootstrap
+- Bootstrap :
 	For styling I using Bootstraps
-- Javascript
+- Javascript :
 	Programming Language
-- JSON Placeholder
+- JSON Placeholder :
 	Fake API for testing and prototyping
 
 ## Quick start
