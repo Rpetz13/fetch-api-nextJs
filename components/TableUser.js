@@ -41,12 +41,7 @@ const TableUser = (props) => {
                     <td>{data.username}</td>
                     <td>
                       {/* Membuat dynamic routing */}
-                      <Link
-                        href={{
-                          // Mempassing user id ke url
-                          pathname: "/users/" + `${data.id}`,
-                        }}
-                      >
+                      <Link href={`/users/${data.id}`}>
                         <a className="text-decoration-none">See Details</a>
                       </Link>
                     </td>
