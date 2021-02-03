@@ -18,6 +18,7 @@ const Users = ({ users }) => {
 
 // Mengambil data dengan static props
 export async function getStaticProps() {
+  console.log();
   const res = await fetch("https://jsonplaceholder.typicode.com/users");
   const users = await res.json();
 

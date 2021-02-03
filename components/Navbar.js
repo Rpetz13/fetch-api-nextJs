@@ -16,7 +16,7 @@ const Navbar = (props) => {
         ></link>
       </Head>
       <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-        <a className="navbar-brand">Next | API</a>
+        <a className="navbar-brand">Next | CRUD</a>
         <div className="ml-auto">
           <ul className="navbar-nav">
             <li className="nav-item">

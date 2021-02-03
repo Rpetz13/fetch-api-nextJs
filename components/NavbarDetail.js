@@ -22,12 +22,12 @@ const NavbarDetail = (props) => {
       <nav className="row navbar navbar-expand-lg navbar-light bg-primary">
         <div className="navbar-nav ml-auto mr-auto mr-sm-auto mr-lg-0 mr-md-auto">
           <a href="index.html" className="navbar-brand text-white">
-            Next API
+            Next CRUD
           </a>
         </div>
         <ul className="navbar-nav mr-auto d-none d-lg-block">
           <li>
-            <span className="text-warning">| &nbsp; How to fetching API</span>
+            <span className="text-warning">| &nbsp; CRUD data from API</span>
           </li>
         </ul>
       </nav>
