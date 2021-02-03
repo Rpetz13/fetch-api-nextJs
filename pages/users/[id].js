@@ -54,7 +54,6 @@ const DetailUser = ({ user, todo, album, post }) => {
               </thead>
               <tbody>
                 {todo.map((todo, index) => {
-                  // Menyeleksi data todos
                   return (
                     <tr key={index}>
                       <td>{todo.title.toUpperCase()}</td>

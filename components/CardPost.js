@@ -25,7 +25,7 @@ const CardPost = (props) => {
                     <Link
                       href={{
                         // Mempassing post id ke URl
-                        pathname: "/posts/" + `${data.id}`,
+                        pathname: `/posts/${data.id}`,
                       }}
                     >
                       <a className="btn btn-outline-light">See Comments</a>
